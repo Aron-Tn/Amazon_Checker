@@ -30,7 +30,6 @@ Click on "Amazon Email Valid Checker V2.exe"
 *Contact*
 ----
 ```
-[+] Personal account : fb.com/amyr.gov.tn
 [+] Facebook Page : fb.com/aron.tn
 [+] Telegram : @aron_tn
 [+] Telegram Channel : https://t.me/Aron_Tn_Store_Official
